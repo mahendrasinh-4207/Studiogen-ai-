@@ -1,0 +1,8 @@
+{
+  "name": "StudioGen AI",
+  "description": "A professional AI-powered product photography and marketing suite using Gemini 2.5 and 3.0 models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
